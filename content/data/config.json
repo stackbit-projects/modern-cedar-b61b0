@@ -33,7 +33,7 @@
             },
             {
                 "label": "about",
-                "altText": "Learn more",
+                "altText": "about",
                 "url": "/",
                 "showIcon": false,
                 "icon": "arrowLeft",
