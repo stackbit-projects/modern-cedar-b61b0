@@ -10,7 +10,7 @@ registerComponents({
     // or register your own dynamic component.
 });
 
-con;
+conddas;
 
 /**
  * README
