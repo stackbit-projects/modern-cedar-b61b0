@@ -74,6 +74,7 @@ sections:
       - content/pages/blog/post-three.md
       - content/pages/blog/post-two.md
       - content/pages/blog/post-one.md
+      - content/pages/blog/first_post.md
     styles:
       self:
         height: auto
