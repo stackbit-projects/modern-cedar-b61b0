@@ -61,7 +61,7 @@
             {
                 "label": "contact us",
                 "altText": "Learn more",
-                "url": "/",
+                "url": "/contact",
                 "showIcon": false,
                 "icon": "arrowLeft",
                 "iconPosition": "right",
